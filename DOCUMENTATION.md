@@ -1,4 +1,4 @@
-# 🧩 ROI Calculator – Approach Documentation
+# ROI Calculator – Approach Documentation
 
 ## **Overview**
 A lightweight ROI calculator web app that helps businesses estimate cost savings, payback period, and ROI when switching from manual to automated invoicing.  
